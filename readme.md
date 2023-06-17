@@ -46,5 +46,33 @@
     Saída:
     11 9                          //Quantidade de vogais e consoantes, respectivamente
 </div>
+<div>
+    <h3>3 - SEQUÊNCIA DE FIBONACCI</h3>
+Implemente um programa que recebe um número inteiro n e imprime o n-ésimo número da Sequência de Fibonacci.
+
+Os números de Fibonacci são, portanto, os números que compõem a seguinte sequência:
+
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, ... 
+
+Em termos matemáticos, a sequência é definida recursivamente pela fórmula abaixo:
+
+Fn = Fn-1 +Fn-2 ,com valores iniciais F1 = 1 e F2 =1.
+
+Entrada:
+
+4
+
+Saída:
+
+3
+
+Entrada:
+
+12
+
+Saída:
+
+144
+</div>
     <br>
     <p style="text-align:center">Cristiano Mendes &copy 2023</p>
