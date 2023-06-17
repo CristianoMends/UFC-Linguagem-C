@@ -1,5 +1,6 @@
 <main>
-        <h1 style="text-align:center">Alguns exercicios de C  da UFC</h1>
+        <h1>Fundamentos de Programação - ( C )</h1>
+        <h2>2023.1 - 1º semestre</h2>
         <h3> 1 - Classe social Brasil</h3>
 
     A classificação do SAE (2012) classifica as famílias de acordo com a renda familiar. A renda familiar é o total da renda das pessoas que moram na mesma casa. Abaixo temos essa classificação de acordo com a renda familiar:
